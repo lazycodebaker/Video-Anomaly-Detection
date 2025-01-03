@@ -1,10 +1,8 @@
-Sure! Here's the updated `README.md` that includes instructions on downloading the MVTec AD dataset and referencing the research paper:
-
 ---
 
-# Autoencoder-based Image Reconstruction for Fault Detection
+# Autoencoder-based Anomaly Detection
 
-This repository demonstrates an implementation of an autoencoder-based model for reconstructing images and detecting faults in carpets. The dataset used contains images of carpets that are either "good" or have some form of fault. The goal of this project is to train an autoencoder model to reconstruct images and compute reconstruction errors to identify faults in unseen carpet images.
+This repository demonstrates an implementation of an autoencoder-based model for detecting anomalies in imagess. The dataset used contains images of carpets that are either "good" or have some form of fault. The goal of this project is to train an autoencoder model to reconstruct images and compute reconstruction errors to identify faults in unseen carpet images.
 
 ## Table of Contents
 
